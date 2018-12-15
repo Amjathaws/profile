@@ -1,0 +1,11 @@
+{
+  profile:[
+    {"id":1, "name":"Amjath, "age":38},
+     {"id":2, "name":"Aameela, "age":32},
+      {"id":3, "name":"Aysha, "age":10},
+         {"id":4, "name":"Alisha, "age":6}
+    
+  ]
+
+}
+
